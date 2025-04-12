@@ -21,3 +21,9 @@ The tool is designed for quick insights, making it easier for content managers, 
 
 ## Folder Structure
 
+web_content_insight_agent/
+├── app.py              # Main Streamlit application
+├── inference.py        # Functions for generating insights via the HF Inference API
+├── web_scraper.py      # Functions for fetching and cleaning webpage content
+├── requirements.txt    # List of Python packages/dependencies
+└── README.md           # Project description and setup instructions
