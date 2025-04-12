@@ -19,11 +19,3 @@ The tool is designed for quick insights, making it easier for content managers, 
 - **Interactive UI:**  
   Built with Streamlit, the web interface allows users to input a URL and immediately view results.
 
-## Folder Structure
-
-web_content_insight_agent/
-├── app.py              # Main Streamlit application
-├── inference.py        # Functions for generating insights via the HF Inference API
-├── web_scraper.py      # Functions for fetching and cleaning webpage content
-├── requirements.txt    # List of Python packages/dependencies
-└── README.md           # Project description and setup instructions
